@@ -2,6 +2,8 @@
 
 **Minecraft developer & AI tooling builder** — I build plugins, custom model frameworks, and tools that let AI agents create Minecraft content.
 
+🌐 **Projects:** [dlkhwshabwlfdl-web.github.io](https://dlkhwshabwlfdl-web.github.io/)
+
 ## 🚀 Featured projects
 
 - **[PaperPilot](https://github.com/dlkhwshabwlfdl-web/PaperPilot)** — MCP server that lets AI agents safely operate a Paper Minecraft server: status, players, logs, moderation, backups — with permission tiers, a command allowlist, and a full audit log.
