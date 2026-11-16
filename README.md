@@ -1,26 +1,35 @@
-# Hi, I'm Abol 👋
+# Hey, I'm Abol — I build Minecraft × AI tooling
 
-**Minecraft developer & AI tooling builder** — I build plugins, custom model frameworks, and tools that let AI agents create Minecraft content.
+🌐 **Projects:** [rconpilot.github.io](https://rconpilot.github.io/)
+📺 **YouTube:** [StickLadder](https://www.youtube.com/@StickLadder)
 
-🌐 **Projects:** [dlkhwshabwlfdl-web.github.io](https://dlkhwshabwlfdl-web.github.io/)
+Plugins and tools for Paper servers and AI workflows — real software, tested end-to-end, released in the open. No demos, no vaporware.
 
-## 🚀 Featured projects
+## Featured projects
 
-- **[PaperPilot](https://github.com/dlkhwshabwlfdl-web/PaperPilot)** — MCP server that lets AI agents safely operate a Paper Minecraft server: status, players, logs, moderation, backups — with permission tiers, a command allowlist, and a full audit log.
-- **[ModelFramework](https://github.com/dlkhwshabwlfdl-web/ModelFramework)** — Turn custom Blockbench models into interactive Minecraft blocks with animations, interactions, and configurable requirements (built on BetterModel).
-- **[Blockbench Models Toolkit](https://github.com/dlkhwshabwlfdl-web/Blockbench-Models-Toolkit-)** — Script-to-`.bbmodel` toolkit with a geometric QA gate, made for AI agents. No Blockbench needed.
-- **[BlockBench Desktop AI Agent MCP](https://github.com/dlkhwshabwlfdl-web/BlockBench-Desktop-Ai-Agent-MCP)** — MCP server to control and automate Blockbench through AI agents.
-- **[MusicBot](https://github.com/dlkhwshabwlfdl-web/MusicBot)** — In-game music bot for Paper servers, powered by Simple Voice Chat + FFmpeg.
+### LiveMarket — a living market for survival servers
+![LiveMarket shop GUI, captured in game](https://rconpilot.github.io/livemarket-shop.png)
 
-## 🧰 Stack
+A Paper plugin whose shop prices move with real supply & demand, saturate against farming, and drift back to base over time. Chest GUI, price alerts, PlaceholderAPI support.
+[Repository](https://github.com/rconpilot/LiveMarket) · [Release v0.3.0](https://github.com/rconpilot/LiveMarket/releases/tag/v0.3.0)
 
-Java (Paper / Bukkit) · TypeScript · Python · Blockbench · MCP · Git
+### PaperPilot + Studio — an AI copilot for Paper servers
+![PaperPilot Studio overview](https://rconpilot.github.io/studio.png)
 
-## 🎯 Currently
+An MCP server that lets AI agents run a Paper server safely — tiered tools, a command allowlist and a full audit log — plus Studio, its native Windows app with a copilot that drafts actions for approval before running them.
+[Repository](https://github.com/rconpilot/PaperPilot) · [Studio 1.20.0](https://github.com/rconpilot/PaperPilot/releases/tag/v1.20.0)
 
-- Building a dynamic **live-market economy plugin** for survival servers
-- Exploring AI agents for game-content creation
+### ModelFramework — custom models as interactive blocks
+![ModelFramework demo](https://rconpilot.github.io/modelframework-demo.gif)
 
-## 🎬 Elsewhere
+A framework built on BetterModel that turns custom models into interactive Minecraft blocks — animations, interactions and configurable requirements, all defined in YAML.
+[Repository](https://github.com/rconpilot/ModelFramework)
 
-- YouTube: [@abolis1](https://www.youtube.com/@abolis1) — daily paper-cutout Shorts about strange stories
+## Stack
+
+Java 21 · TypeScript · Python · Paper API · MCP · Electron
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rconpilot&show_icons=true&bg_color=ffffff&border_color=141414&title_color=141414&icon_color=d9a400&text_color=141414)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rconpilot&layout=compact&bg_color=ffffff&border_color=141414&title_color=141414&text_color=141414)
