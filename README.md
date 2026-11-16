@@ -14,7 +14,7 @@ A Paper plugin whose shop prices move with real supply & demand, saturate agains
 [Repository](https://github.com/rconpilot/LiveMarket) · [Release v0.3.0](https://github.com/rconpilot/LiveMarket/releases/tag/v0.3.0)
 
 ### PaperPilot + Studio — an AI copilot for Paper servers
-![PaperPilot Studio overview](https://rconpilot.github.io/studio.png)
+![PaperPilot Studio overview](https://rconpilot.github.io/paperpilot-studio.gif)
 
 An MCP server that lets AI agents run a Paper server safely — tiered tools, a command allowlist and a full audit log — plus Studio, its native Windows app with a copilot that drafts actions for approval before running them.
 [Repository](https://github.com/rconpilot/PaperPilot) · [Studio 1.20.0](https://github.com/rconpilot/PaperPilot/releases/tag/v1.20.0)
