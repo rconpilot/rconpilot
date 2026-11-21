@@ -18,7 +18,7 @@ Plugins and tools for Paper servers and AI workflows — real software, tested e
 
 A Paper plugin whose shop prices move with real supply & demand, saturate against farming, and drift back to base over time. Chest GUI with price charts, per-item volatility, crash-safe persistence, price alerts, PlaceholderAPI support, and a trading pause for admins.
 
-[Repository](https://github.com/rconpilot/LiveMarket) · [Release v0.4.0](https://github.com/rconpilot/LiveMarket/releases/tag/v0.4.0)
+[Repository](https://github.com/rconpilot/LiveMarket) · [Release v0.5.0](https://github.com/rconpilot/LiveMarket/releases/tag/v0.5.0)
 
 
 ### PaperPilot + Studio — an AI copilot for Paper servers
